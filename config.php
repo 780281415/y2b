@@ -5,7 +5,7 @@ define('GJ_CODE', 'US');
 define('SITE_NAME', 'y2b');
 define('TITLENAME', 'y2b');
 define('EN2DEKEY', '32123wwerwer323tgfdgds');
-define('EMAIL', '1334347212@qq.com');
+define('EMAIL', '780281415@qq.com');
 define('NAME', 'admin');
 define('PASSWORD', 'admin');
 define('LOGINHTML', '<!DOCTYPE html>
